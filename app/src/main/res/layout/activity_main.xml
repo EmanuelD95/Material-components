@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnCheckbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="checkbox"/>
+
+    <Button
+        android:id="@+id/btnChips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="chips"/>
+
+    <Button
+        android:id="@+id/btnRadioButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="radioButton"/>
+
+    <Button
+        android:id="@+id/btnSlider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="slider"/>
+
+    <Button
+        android:id="@+id/btnTextFields"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="textFields"/>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MaterialComponents</string>
+    <string name="rb_option_1">Ceviche</string>
+    <string name="rb_option_2">Chicharrón de Pescado</string>
+    <string name="rb_option_3">Sudado</string>
+    <string name="rb_option_4">Arroz con Mariscos</string>
+    <string name="rb_option_5">Conchas Negras</string>
+    <string name="chb_option_1">Nike</string>
+    <string name="chb_option_2">Adidas</string>
+    <string name="chb_option_3">Puma</string>
+    <string name="chb_option_4">Reebok</string>
+    <string name="chb_option_5">Umbro</string>
+    <string name="chip_opcion1">hip hop</string>
+    <string name="chip_opcion2">Rock</string>
+    <string name="chip_opcion3">Electro</string>
+    <string name="chip_opcion4">Reggaeton</string>
+    <string name="chip_opcion5">Pop</string>
+    <string name="Name">Nombre</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="lastName">Apellidos</string>
+    <string name="Age">Edad</string>
+    <string name="password">Contraseña</string>
+</resources>

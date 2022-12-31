@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ComponentsActivity">
+
+    <include
+        android:visibility="gone"
+        layout="@layout/checkbox"/>
+
+    <include
+        android:visibility="gone"
+        layout="@layout/chips"/>
+
+    <include
+        android:visibility="gone"
+        layout="@layout/radiobutton"/>
+
+    <include
+        android:visibility="gone"
+        layout="@layout/slider"/>
+
+    <include
+        android:visibility="gone"
+        layout="@layout/textfields"/>
+
+</LinearLayout>
